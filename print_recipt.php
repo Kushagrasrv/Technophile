@@ -51,6 +51,9 @@ $dbhost = 'localhost';
 									<td>
 									<span class='val'>".$row['NAME']."</span>
 									</td>
+									<td>
+									<span class='val'>".$row['NAME']."</span>
+									</td>
 									</tr>
 									<tr>
 									<td>
